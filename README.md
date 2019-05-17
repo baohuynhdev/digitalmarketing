@@ -7,10 +7,6 @@
 > Vai trò của kế hoạch Digital Marketing ? Cách lập kế hoạch Digital marketing qua các bước và hướng dẫn chi tiết để có một kế hoạch truyền thông hiệu quả ,sát với mục tiêu đề ra.
 - [ ] Chương 4 : Các kênh Digital Marketing phổ biến
 > Có bao nhiêu kế tiếp thị số ? Các kênh digital marketing phổ biến ở Việt nam là gì , ứng dụng ra sao ? Cách lựa chọn kênh tiếp thị phù hợp với chiến lược tổng thể.
-    - [ ] Google Adwords
-    - [ ] SEO
-    - [ ] Facebook marketing
-    - [ ] Email , SMS , Automation Marketing
 - [ ] Chương 5 : Nội dung trong Digital Marketing
 > Giá trị và cách làm content marketing , hướng dẫn từ kế hoạch đến triển khai.
 
