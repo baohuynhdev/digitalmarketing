@@ -1,6 +1,6 @@
 # DIGITAL MARKETING từ chiến lược đến thực thi
 - [ ] Chương 1 : Tổng quang
-- Giúp bạn hình dung rõ nét về vị trí cũng như vai trò của Digital Marketing trong chiến lược Marketing tổng thể.
+> Giúp bạn hình dung rõ nét về vị trí cũng như vai trò của Digital Marketing trong chiến lược Marketing tổng thể.
 - [ ] Chương 2 : Sáng tạo ý tưởng lớn
 - Big Idea và Excutions là gì ? Sáng tạo như thế nào và ứng dụng ra sao để có một chiến dịch Digital Marketing thành công ?
 - [ ] Chương 3 : Lập kết hoạch digital marketing
